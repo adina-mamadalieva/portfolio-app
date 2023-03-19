@@ -118,7 +118,7 @@ const experiences = [
   {
     title: "Softwere Developer",
     company_name: "OnDemanOne",
-    icon: ondemandone,
+    icon: meta,
     iconBg: "#383E56",
     date: "Nov 2019 - Jan 2020",
     points: [
@@ -131,7 +131,7 @@ const experiences = [
   {
     title: "QA specialist",
     company_name: "Pricer Bishkek",
-    icon: pricer-bishkek,
+    icon: meta,
     iconBg: "#E6DEDD",
     date: "March 2020 - Jan 2021",
     points: [
@@ -144,7 +144,7 @@ const experiences = [
   {
     title: "Web Developer",
     company_name: "Pricer Bishkek",
-    icon: shopify,
+    icon: meta,
     iconBg: "#383E56",
     date: "Jan 2022 - Feb 2023",
     points: [
